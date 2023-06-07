@@ -16,7 +16,7 @@ https://www.sciencedirect.com/science/article/pii/S0010482522005340
 
 - 图像处理：镜面抑制反射，图像修复
 
-![image]([C:\Users\余成远\AppData\Roaming\Typora\typora-user-images\image-20230602125300812.png](https://github.com/Boleroo/polyp-segmentation/blob/master/picture/pic1.png))
+![image](https://github.com/Boleroo/polyp-segmentation/blob/master/picture/pic1.png)
 
 - 显著性区域检测
 
