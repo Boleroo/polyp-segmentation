@@ -30,9 +30,9 @@ EndoScene( CVC-ColonDB + CVC-ClinicDB) 和Kvasir-SEG
 
 **result**
 
-![image-20230602133647165](C:\Users\余成远\AppData\Roaming\Typora\typora-user-images\image-20230602133647165.png)
+![image](https://github.com/Boleroo/polyp-segmentation/blob/master/picture/pic2.png)
 
-![image-20230602133656101](C:\Users\余成远\AppData\Roaming\Typora\typora-user-images\image-20230602133656101.png)
+![image](https://github.com/Boleroo/polyp-segmentation/blob/master/picture/pic3.png)
 
 
 
@@ -44,19 +44,18 @@ RFB模块：多尺度跳跃连接，多尺度特征
 
 LCA上下文注意模块：精确息肉边界分割
 
-![image-20230602145500332](C:\Users\余成远\AppData\Roaming\Typora\typora-user-images\image-20230602145500332.png)
+![image](https://github.com/Boleroo/polyp-segmentation/blob/master/picture/pic4.png)
 
 
 
 
 
-https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9629355/9629471/9630787/wang.t3-p4-wang-large.gif
-
+![image](https://github.com/Boleroo/polyp-segmentation/blob/master/picture/pic5.png)
 
 
 #### **用于息肉分割和分类的高效多任务协同网络**（2023，JBHI）
 
-![image-20230602150953731](C:\Users\余成远\AppData\Roaming\Typora\typora-user-images\image-20230602150953731.png)
+![image](https://github.com/Boleroo/polyp-segmentation/blob/master/picture/pic6.png)
 
 分割+分类
 
@@ -66,8 +65,7 @@ https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9629355/9629471/96
 
 - 提出了一种随机多尺度（RMS）训练策略，RMS结合class分类，消除冗余信息，帮助 EMTS-Net (Seg)执行更准确的息肉分割
 
-  ![image-20230602151353941](C:\Users\余成远\AppData\Roaming\Typora\typora-user-images\image-20230602151353941.png)
-
+  ![image](https://github.com/Boleroo/polyp-segmentation/blob/master/picture/pic7.png)
   
 
 #### Polyp-Net: A Multimodel Fusion Network for Polyp Segmentation
